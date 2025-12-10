@@ -1,5 +1,13 @@
 # 💫 About Me:
-Machine Learning Intern at Porter | M.Tech25 (SPML) at NIT Surathkal
+- Machine Learning Intern at Porter with hands-on experience building and deploying real-world ML systems at scale.
+
+- M.Tech in Machine Learning (NIT Karnataka, 2025) with strong foundations in Machine Learning, statistical learning, deep learning, NLP, Llms and large-scale data processing.
+
+- Developed driver ranking models (Logistic Regression, XGBoost) and engineered high-value features using Chalk AI, achieving strong precision/recall performance.
+
+- Built scalable pipelines using Airflow, BigQuery, Snowflake, automated feature-skew monitoring, and contributed to MLOps dashboards for drift detection.
+
+- Skilled in Python, SQL, GCP/AWS, Docker, MLflow, FastAPI, Streamlit, and modern ML/DL (LSTM, CNN, Transformers, BERT),LLMS with a passion for turning data into impactful, production-ready solutions.
 
 
 ## 🌐 Socials:
